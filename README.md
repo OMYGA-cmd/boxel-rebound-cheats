@@ -11,7 +11,7 @@ This are cheats for the chrome extension called Boxel Rebound.
 
 👿Select the Console tab when you are in the developer tools.
 
-👀Once there paste the [**Script.js**] text in the console.(https://github.com/OMYGA-cmd/boxel-rebound-cheats/blob/main/script.js)
+👀Once there paste the [**Script.js** text in the console.](https://github.com/OMYGA-cmd/boxel-rebound-cheats/blob/main/script.js)
 
 🥶Use the [Tilda button above to show the menu.](https://qph.fs.quoracdn.net/main-qimg-ff8436a338c4435a98fe4f5874ce42d2-c)
 
